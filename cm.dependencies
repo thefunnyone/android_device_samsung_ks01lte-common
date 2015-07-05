@@ -5,6 +5,6 @@
   },
   {
     "repository": "android_kernel_samsung_hlte",
-    "target_path": "kernel/samsung/hlte"
+    "target_path": "kernel/samsung/ks01lte"
   }
 ]
